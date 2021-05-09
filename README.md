@@ -1,2 +1,2 @@
 # Projects
-I will upload diffrents projects I made during my studies in all kind of programming languagues.
+I will upload different projects I made during my studies.
