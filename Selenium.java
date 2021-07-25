@@ -3,7 +3,10 @@
  * 
  * @author Ido Nidbach & Michael Winkler
  * @date - 15/07/21
- *
+ * This program is used to skip ads at the beginning of the video and close text ads the pop up.
+ * TO DO: - Fix - when there's an ad in the middle of the youtube video it restarts the video 
+ 		  and returns to the start of it instead of the point it stopped.
+ 	
  */
 
 /**
