@@ -1,7 +1,3 @@
-# Projects
-I will upload different projects I made during my software engineering studies.
-
-
 # Arduino :
 
 ![תמונה ראשית](https://user-images.githubusercontent.com/45034767/126064804-c6483e68-b892-456b-b204-1fa3848ba754.jpg)
